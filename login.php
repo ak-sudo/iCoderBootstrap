@@ -76,7 +76,7 @@ if(isset($_POST['submit'])){
             <div class="form-group">
                <button type="submit" name="submit" class="btn btn-primary btn-block"> Log In </button>
                </div>
-               <p class="text-center">Don't have an account? <a href="regis.php">SignUp Here</a></p>
+               <p class="text-center">Don't have an account? <a href="/iCoderBootstrap/regis.php">SignUp Here</a></p>
             </form>
         </article>
         </div>
